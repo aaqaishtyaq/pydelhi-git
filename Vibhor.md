@@ -1,2 +1,3 @@
-Hi! This is # Vibhor Mittal and this my first file on this repo.
-And this is a markdown file
+# Vibhor Mittal 
+## This my first file on this repo.
+### And this is a markdown file.
